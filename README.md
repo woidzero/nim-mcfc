@@ -1,6 +1,6 @@
 # MCFC
 
-Text formatting using Minecraft color codes.
+Text formatting using Minecraft color codes implementation in Nim.
 
 ## Installation
 ```bash

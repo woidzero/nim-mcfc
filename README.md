@@ -1,7 +1,4 @@
 # MCFC
-[![PyPI](https://img.shields.io/pypi/v/mcfc)](https://pypi.org/project/mcfc)
-[![PyPI Downloads](https://img.shields.io/pypi/dm/mcfc)](https://pypi.org/project/mcfc)
-[![Python Version](https://img.shields.io/badge/python-3.x-white)](https://pypi.org/project/mcfc)
 
 Text formatting using Minecraft color codes.
 

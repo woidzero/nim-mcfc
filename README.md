@@ -7,7 +7,7 @@ Text formatting using Minecraft color codes.
 
 ## Installation
 ```bash
-nimble install mcfc
+nimble install https://github.com/woidzero/nim-mcfc.git
 ```
 
 ## Usage
